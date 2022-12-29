@@ -1,0 +1,15 @@
+javascript is a high level just in time compiled programming language that conforms the ecma specification
+
+all const should be initialized and cannot be changed later
+
+
+data types
+--------------------
+1.primitive - string,number,boolean,undefined,null,bigint,symbol
+2.non-primitive - object
+
+there are three types of scopes in javascript
+
+1.block scope
+2.function scope
+3.global scope
